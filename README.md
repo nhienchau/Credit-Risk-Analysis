@@ -9,7 +9,12 @@ Credit risk analysis is a critical process in the financial industry, aimed at e
 
 ## Data exploration
 
-The file explorer is accessible using the button in left corner of the navigation bar. You can create a new file by clicking the **New file** button in the file explorer. You can also create folders by clicking the **New folder** button.
+The data includes 9 columns about detailed customers' information <br>
+| Age | Ed | Employ | Address | Income | Debtinc | Creddebt | Otherddebt | Default
+|  --------  |  -------  |  --------  |  -------  |--------  |  -------  | -------  | -------  | -------  |
+ | 41 | 3 | 17 | 12 | 176 | 9.3 | 11.359392 | 5.008608 | 1.0
+ | 27 | 1 | 10 | 6 | 31 | 17.3 |  1.362202 | 4.000798  |    0.0
+ | 40 | 1 | 15 | 14 | 55 | 5.5  | 0.856075 | 2.168925   |   0.0
 
 ## Correlation analysis
 All your files and folders are presented as a tree in the file explorer. You can switch from one to another by clicking a file in the tree.
