@@ -15,7 +15,7 @@ The data includes 9 columns about detailed customers' information <br>
  | 41 | 3 | 17 | 12 | 176 | 9.3 | 11.359392 | 5.008608 | 1.0
  | 27 | 1 | 10 | 6 | 31 | 17.3 |  1.362202 | 4.000798  |    0.0
  | 40 | 1 | 15 | 14 | 55 | 5.5  | 0.856075 | 2.168925   |   0.0
-
+ | ... | ... | ...| ... | ... | ...  | ... | ...   |   ...
 ## Correlation analysis
 All your files and folders are presented as a tree in the file explorer. You can switch from one to another by clicking a file in the tree.
 
