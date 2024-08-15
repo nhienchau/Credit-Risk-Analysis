@@ -84,7 +84,7 @@ Address Class Imbalance:
 • `Class Weights`: Adjust the class weights in the model to give more importance to the minority class (defaulters).
 
 
-## Recommendation $ Next steps
+## Recommendation and Next steps
 
 •  Policy Adjustment: Implement policies that encourage borrowers to maintain a higher credit to debt ratio. This can be achieved by offering better interest rates or incentives for those who manage their credit well.<br>
 •  Marketing Strategy: Focus marketing efforts on segments with higher credit to debt ratios, as they are less likely to default.<br>
